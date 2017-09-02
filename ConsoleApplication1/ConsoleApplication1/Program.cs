@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             //pracownik
             Console.WriteLine("szef1");
 
-            //pracownik
+            //pracownikd
             Console.WriteLine("pracownik");
         }
     }
