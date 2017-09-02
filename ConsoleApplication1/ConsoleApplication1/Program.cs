@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("test");
             Console.ReadLine();
-            Console.WriteLine("oko")
+            Console.WriteLine("oko");
         }
     }
 }
